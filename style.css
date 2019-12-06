@@ -1,0 +1,12 @@
+@CHARSET "UTF-8";
+body{
+	background-color: #7e7e7e;
+	font-family: Avantgarde, TeX Gyre Adventor, URW Gothic L, sans-serif;
+}
+
+h1{
+	padding-top: 20%;
+	padding-bottom: 20%;
+	text-align: center;
+	color: #FFFFFF;
+}
